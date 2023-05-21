@@ -13,6 +13,6 @@ Therefore, this app aims to solve this issue promptly without overly bombarding 
 
 ### How to Use:
 1) Download the files from the repository
-1) Open the CLI in the root directory with the package.lock file
+1) Open the CLI in the root directory with the "package.lock" file
 1) Run the command "npm install"
 1) Run the command "npx expo start"
