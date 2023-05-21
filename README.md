@@ -12,7 +12,7 @@ To provide a minimalistic app with a simple design that will allow users to keep
 Therefore, this app aims to solve this issue promptly without overly bombarding the user with excessive features.
 
 ### How to Use:
-- Download the files from the repository
-- Open the CLI in the root directory with the package.lock file
-- Run the command "npm install"
-- Run the command "npx expo start"
+1) Download the files from the repository
+1) Open the CLI in the root directory with the package.lock file
+1) Run the command "npm install"
+1) Run the command "npx expo start"
