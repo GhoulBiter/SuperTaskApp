@@ -3,8 +3,8 @@
 ### Authors:
 | Name                   | ID      |
 |------------------------|---------|
-| Mike Hanna             | 19-0743 |
 | Fatima Alzahra Alhasan | 20-0510 |
+| Mike Hanna             | 19-0743 |
 | Zahra Khalid           | 20-0516 |
 
 ### Purpose
